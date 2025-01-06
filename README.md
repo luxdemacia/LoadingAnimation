@@ -1,0 +1,2 @@
+# LoadingAnimation
+Animation de téléchargement
